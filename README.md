@@ -1,11 +1,9 @@
 # learning-shell
-Bash shell 
-===============================
+## Bash Commands
+```bash
 ls
 ls -l
 pwd
 uname -a
 id
-df -h
-================
-
+```
